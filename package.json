@@ -10,5 +10,9 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
+  },
+  "dependencies": {
+    "lineman": "^0.34.0",
+    "lineman-react": "0.0.1"
   }
 }
