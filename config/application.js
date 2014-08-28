@@ -36,7 +36,7 @@ module.exports = function(lineman) {
     // have Ruby installed as well as the `sass` gem. To enable it, comment out the
     // following line:
     //
-    // enableSass: true
+    enableSass: true,
 
     // Asset Fingerprints
     //
@@ -53,7 +53,7 @@ module.exports = function(lineman) {
     // make a change in each browser you're working against. To enable LiveReload,
     // comment out the following line:
     //
-    // livereload: true
+    livereload: true
 
   };
 };
