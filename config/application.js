@@ -14,7 +14,7 @@
 module.exports = function(lineman) {
   //Override application configuration here. Common examples follow in the comments.
   return {
-
+    loadNpmTasks: lineman.config.application.loadNpmTasks.concat("react").concat("react-bootstrap"),
     // API Proxying
     //
     // During development, you'll likely want to make XHR (AJAX) requests to an API on the same

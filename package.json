@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "lineman": "^0.34.0",
-    "lineman-react": "0.0.1"
+    "lineman-react": "0.0.1",
+    "react": "0.11.1",
+    "react-bootstrap": "0.11.1"
   }
 }
