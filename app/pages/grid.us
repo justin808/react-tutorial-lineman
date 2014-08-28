@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello Returns</title>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
+  </head>
+  <body>
+    <div class="container"> 
+    <div id="employees"></div>
+    </container>
+      <script type="text/javascript" src="<%= js %>"></script>
+
+  </body>
+</html>
